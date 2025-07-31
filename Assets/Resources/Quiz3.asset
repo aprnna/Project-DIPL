@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f71d862e1804ac89ab819dc40b11c87, type: 3}
+  m_Name: Quiz3
+  m_EditorClassIdentifier: 
+  questions:
+  - questionText: Apa Bahasa Insyarat dari "Mobil"?
+    optionA: {fileID: -809993016, guid: 5b3f83130f85f0f4889bfb088fab14c0, type: 3}
+    optionB: {fileID: -1753250977, guid: 170f1ba13c7a7234dbcc47d5c3638000, type: 3}
+    score: 20
+    correctOption: A
+  - questionText: Apa Bahasa Insyarat dari "Motor"?
+    optionA: {fileID: -809993016, guid: 5b3f83130f85f0f4889bfb088fab14c0, type: 3}
+    optionB: {fileID: -1753250977, guid: 170f1ba13c7a7234dbcc47d5c3638000, type: 3}
+    score: 20
+    correctOption: A
+  - questionText: Apa Bahasa Insyarat dari "Sepeda"?
+    optionA: {fileID: -809993016, guid: 5b3f83130f85f0f4889bfb088fab14c0, type: 3}
+    optionB: {fileID: -1753250977, guid: 170f1ba13c7a7234dbcc47d5c3638000, type: 3}
+    score: 20
+    correctOption: B
+  - questionText: Apa Bahasa Insyarat dari "Bis"?
+    optionA: {fileID: -809993016, guid: 5b3f83130f85f0f4889bfb088fab14c0, type: 3}
+    optionB: {fileID: -1753250977, guid: 170f1ba13c7a7234dbcc47d5c3638000, type: 3}
+    score: 20
+    correctOption: B
+  - questionText: Apa Bahasa Insyarat dari "Truk"?
+    optionA: {fileID: -809993016, guid: 5b3f83130f85f0f4889bfb088fab14c0, type: 3}
+    optionB: {fileID: -1753250977, guid: 170f1ba13c7a7234dbcc47d5c3638000, type: 3}
+    score: 20
+    correctOption: A
