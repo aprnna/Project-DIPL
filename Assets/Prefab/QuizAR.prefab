@@ -880,8 +880,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   questionTextObj: {fileID: 1001891909934724097}
-  optionATextObj: {fileID: 8244551196012855223}
-  optionBTextObj: {fileID: 9163377165394283593}
+  optionATextObj: {fileID: 7433025083721059944}
+  optionBTextObj: {fileID: 8097715342510290470}
   optionACube: {fileID: 3181549906082298847}
   optionBCube: {fileID: 8447557620906677180}
 --- !u!1 &4070453699213083606

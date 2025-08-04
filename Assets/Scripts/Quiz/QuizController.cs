@@ -108,6 +108,8 @@ public class QuizController : MonoBehaviour
         optionBSR.sprite = q.optionB;
     }
 
+
+
     void ResetCubeColors()
     {
         optionACube.GetComponent<Renderer>().material.color = Color.white;

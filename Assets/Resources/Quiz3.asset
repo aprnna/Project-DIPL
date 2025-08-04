@@ -14,27 +14,27 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   questions:
   - questionText: Apa Bahasa Insyarat dari "Mobil"?
-    optionA: {fileID: -809993016, guid: 5b3f83130f85f0f4889bfb088fab14c0, type: 3}
-    optionB: {fileID: -1753250977, guid: 170f1ba13c7a7234dbcc47d5c3638000, type: 3}
+    optionA: {fileID: 21300000, guid: 09a901d96baf4ab4b83d55398f8894c8, type: 3}
+    optionB: {fileID: 21300000, guid: 286ba2548809256428d5c33d3efbd15d, type: 3}
     score: 20
     correctOption: A
   - questionText: Apa Bahasa Insyarat dari "Motor"?
-    optionA: {fileID: -809993016, guid: 5b3f83130f85f0f4889bfb088fab14c0, type: 3}
-    optionB: {fileID: -1753250977, guid: 170f1ba13c7a7234dbcc47d5c3638000, type: 3}
+    optionA: {fileID: 21300000, guid: 80eb56605bd2f3a4d8bd120b53147145, type: 3}
+    optionB: {fileID: 21300000, guid: a35aeeb65d7e09846aa91f10e1119476, type: 3}
     score: 20
-    correctOption: A
+    correctOption: B
   - questionText: Apa Bahasa Insyarat dari "Sepeda"?
-    optionA: {fileID: -809993016, guid: 5b3f83130f85f0f4889bfb088fab14c0, type: 3}
-    optionB: {fileID: -1753250977, guid: 170f1ba13c7a7234dbcc47d5c3638000, type: 3}
+    optionA: {fileID: 21300000, guid: 09a901d96baf4ab4b83d55398f8894c8, type: 3}
+    optionB: {fileID: 21300000, guid: 286ba2548809256428d5c33d3efbd15d, type: 3}
     score: 20
     correctOption: B
   - questionText: Apa Bahasa Insyarat dari "Bis"?
-    optionA: {fileID: -809993016, guid: 5b3f83130f85f0f4889bfb088fab14c0, type: 3}
-    optionB: {fileID: -1753250977, guid: 170f1ba13c7a7234dbcc47d5c3638000, type: 3}
+    optionA: {fileID: 21300000, guid: 80eb56605bd2f3a4d8bd120b53147145, type: 3}
+    optionB: {fileID: 21300000, guid: a35aeeb65d7e09846aa91f10e1119476, type: 3}
     score: 20
-    correctOption: B
-  - questionText: Apa Bahasa Insyarat dari "Truk"?
-    optionA: {fileID: -809993016, guid: 5b3f83130f85f0f4889bfb088fab14c0, type: 3}
-    optionB: {fileID: -1753250977, guid: 170f1ba13c7a7234dbcc47d5c3638000, type: 3}
+    correctOption: A
+  - questionText: Apa Bahasa Insyarat dari "Kereta api"?
+    optionA: {fileID: 21300000, guid: 42a7a66d9ea7b1c428a02278be44d7c9, type: 3}
+    optionB: {fileID: 21300000, guid: 09a901d96baf4ab4b83d55398f8894c8, type: 3}
     score: 20
     correctOption: A

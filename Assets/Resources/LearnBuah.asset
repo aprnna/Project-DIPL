@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f94325216ba44faaaa47dbf3a7e9b8b, type: 3}
+  m_Name: LearnBuah
+  m_EditorClassIdentifier: 
+  LearnItems:
+  - title: Anggur
+    prefab: {fileID: 5418295428962455776, guid: 26d52f579434dec4c8ace2b77a3120fc,
+      type: 3}
+  - title: Pisang
+    prefab: {fileID: 6642354211569778276, guid: 53c6a4f22b6f5a647a28abe12ecf82b6,
+      type: 3}
+  - title: Jeruk
+    prefab: {fileID: 3448795110401818705, guid: 71b2bcd0abd81544ebc947f0ebd55f02,
+      type: 3}
+  - title: Alpukat
+    prefab: {fileID: 2934442190052306325, guid: 9fae30b2fb40e0e44916cffd9cb6b3c1,
+      type: 3}
+  - title: Mangga
+    prefab: {fileID: 5154170184238839063, guid: 7b72ab1041c1e794b9cae7d5f84cefef,
+      type: 3}

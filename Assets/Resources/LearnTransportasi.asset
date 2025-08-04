@@ -14,12 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   LearnItems:
   - title: Mobil
-    prefab: {fileID: 551114130645979407, guid: b4533c1608b1cbb479f682f5fb037e7a, type: 3}
+    prefab: {fileID: 1071334755328950803, guid: 4e72ade51bca5094799dadd71bf4100c,
+      type: 3}
   - title: Motor
-    prefab: {fileID: 551114130645979407, guid: b4533c1608b1cbb479f682f5fb037e7a, type: 3}
+    prefab: {fileID: 8545012570366305025, guid: 35c01458b6cab9a42abb058e5e25b9d9,
+      type: 3}
+  - title: Kereta Api
+    prefab: {fileID: 3000106388375540051, guid: cd07c3e5a05af9e4bbdb5c9c51522dcc,
+      type: 3}
   - title: Sepeda
-    prefab: {fileID: 919132149155446097, guid: bb2a2d65a932be84491e2b17df909d28, type: 3}
-  - title: Bis
-    prefab: {fileID: 551114130645979407, guid: b4533c1608b1cbb479f682f5fb037e7a, type: 3}
-  - title: Truk
-    prefab: {fileID: 551114130645979407, guid: b4533c1608b1cbb479f682f5fb037e7a, type: 3}
+    prefab: {fileID: 946080086613108896, guid: 78a588bcbd41af34f9dd98ae03cb6500, type: 3}
+  - title: Bus
+    prefab: {fileID: 5857276036815306035, guid: 6981249ad20ee534c9ed547622015ef4,
+      type: 3}

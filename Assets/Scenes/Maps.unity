@@ -477,7 +477,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 3ef1b8f155aa3c44ea3fe529418bec94,
+      objectReference: {fileID: 21300000, guid: d203621939b92e94c89428f8de7aca55,
         type: 3}
     - target: {fileID: 195017043269465601, guid: f6b2a93d4efad3f4087c48e36093c450,
         type: 3}
@@ -517,12 +517,12 @@ PrefabInstance:
     - target: {fileID: 2520627960146107114, guid: f6b2a93d4efad3f4087c48e36093c450,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 633.0044
+      value: 800.4199
       objectReference: {fileID: 0}
     - target: {fileID: 2520627960146107114, guid: f6b2a93d4efad3f4087c48e36093c450,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 633
+      value: 800.4199
       objectReference: {fileID: 0}
     - target: {fileID: 2520627960146107114, guid: f6b2a93d4efad3f4087c48e36093c450,
         type: 3}
@@ -547,7 +547,7 @@ PrefabInstance:
     - target: {fileID: 2520627960146107114, guid: f6b2a93d4efad3f4087c48e36093c450,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 42.240307
+      value: 42.23983
       objectReference: {fileID: 0}
     - target: {fileID: 2520627960146107114, guid: f6b2a93d4efad3f4087c48e36093c450,
         type: 3}
@@ -602,7 +602,7 @@ PrefabInstance:
     - target: {fileID: 3390685925463241229, guid: f6b2a93d4efad3f4087c48e36093c450,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: -206.6605
+      value: -115.360504
       objectReference: {fileID: 0}
     - target: {fileID: 3390685925463241229, guid: f6b2a93d4efad3f4087c48e36093c450,
         type: 3}
@@ -617,7 +617,7 @@ PrefabInstance:
     - target: {fileID: 3841524270950005328, guid: f6b2a93d4efad3f4087c48e36093c450,
         type: 3}
       propertyPath: m_text
-      value: Rumah
+      value: Buah Buahan
       objectReference: {fileID: 0}
     - target: {fileID: 3841524270950005328, guid: f6b2a93d4efad3f4087c48e36093c450,
         type: 3}
@@ -734,7 +734,7 @@ PrefabInstance:
     - target: {fileID: 5836031068717144094, guid: f6b2a93d4efad3f4087c48e36093c450,
         type: 3}
       propertyPath: m_text
-      value: Rumah
+      value: Buah Buahan
       objectReference: {fileID: 0}
     - target: {fileID: 5836031068717144094, guid: f6b2a93d4efad3f4087c48e36093c450,
         type: 3}
@@ -751,7 +751,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_sharedMaterial
       value: 
-      objectReference: {fileID: 5240985739878945192, guid: a7894859e814fb84da2e38f417d2b49d,
+      objectReference: {fileID: 5240985739878945192, guid: bd154a0c8e8ceb345b3a8652fd1e27f9,
         type: 2}
     - target: {fileID: 5836031068717144094, guid: f6b2a93d4efad3f4087c48e36093c450,
         type: 3}
@@ -766,7 +766,7 @@ PrefabInstance:
     - target: {fileID: 5836031068717144094, guid: f6b2a93d4efad3f4087c48e36093c450,
         type: 3}
       propertyPath: m_hasFontAssetChanged
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6936328788893340229, guid: f6b2a93d4efad3f4087c48e36093c450,
         type: 3}
@@ -2484,7 +2484,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 022e064a9a88ea5429a6abda8dd6c8f7,
+      objectReference: {fileID: 21300000, guid: 0332a1ce05eba7c4994821b73fec87b7,
         type: 3}
     - target: {fileID: 195017043269465601, guid: f6b2a93d4efad3f4087c48e36093c450,
         type: 3}
@@ -2504,12 +2504,12 @@ PrefabInstance:
     - target: {fileID: 2520627960146107114, guid: f6b2a93d4efad3f4087c48e36093c450,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 405
+      value: 336.1257
       objectReference: {fileID: 0}
     - target: {fileID: 2520627960146107114, guid: f6b2a93d4efad3f4087c48e36093c450,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 197
+      value: 336.1257
       objectReference: {fileID: 0}
     - target: {fileID: 2520627960146107114, guid: f6b2a93d4efad3f4087c48e36093c450,
         type: 3}
@@ -2534,7 +2534,7 @@ PrefabInstance:
     - target: {fileID: 2520627960146107114, guid: f6b2a93d4efad3f4087c48e36093c450,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 42.4
+      value: 42.399708
       objectReference: {fileID: 0}
     - target: {fileID: 2520627960146107114, guid: f6b2a93d4efad3f4087c48e36093c450,
         type: 3}
@@ -2549,7 +2549,7 @@ PrefabInstance:
     - target: {fileID: 3841524270950005328, guid: f6b2a93d4efad3f4087c48e36093c450,
         type: 3}
       propertyPath: m_text
-      value: Orientasi
+      value: Huruf Vocal
       objectReference: {fileID: 0}
     - target: {fileID: 3841524270950005328, guid: f6b2a93d4efad3f4087c48e36093c450,
         type: 3}
@@ -2611,7 +2611,7 @@ PrefabInstance:
     - target: {fileID: 5836031068717144094, guid: f6b2a93d4efad3f4087c48e36093c450,
         type: 3}
       propertyPath: m_text
-      value: Orientasi
+      value: Huruf Vocal
       objectReference: {fileID: 0}
     - target: {fileID: 5836031068717144094, guid: f6b2a93d4efad3f4087c48e36093c450,
         type: 3}

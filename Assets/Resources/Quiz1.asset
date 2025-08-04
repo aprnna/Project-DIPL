@@ -14,27 +14,27 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   questions:
   - questionText: Apa Bahasa Insyarat dari "A"?
-    optionA: {fileID: -809993016, guid: 5b3f83130f85f0f4889bfb088fab14c0, type: 3}
-    optionB: {fileID: -1753250977, guid: 170f1ba13c7a7234dbcc47d5c3638000, type: 3}
+    optionA: {fileID: 21300000, guid: cf5de63ff587c5a40af1d66d7bd5f978, type: 3}
+    optionB: {fileID: 21300000, guid: 61f2a63605c297344b9df6402e3284b2, type: 3}
     score: 20
-    correctOption: A
-  - questionText: Apa Bahasa Insyarat dari "B"?
-    optionA: {fileID: -809993016, guid: 5b3f83130f85f0f4889bfb088fab14c0, type: 3}
-    optionB: {fileID: -1753250977, guid: 170f1ba13c7a7234dbcc47d5c3638000, type: 3}
+    correctOption: B
+  - questionText: Apa Bahasa Insyarat dari "I"?
+    optionA: {fileID: 21300000, guid: cf5de63ff587c5a40af1d66d7bd5f978, type: 3}
+    optionB: {fileID: 21300000, guid: f1724f6fd3ef750468437a2672b4649b, type: 3}
     score: 20
-    correctOption: A
-  - questionText: Apa Bahasa Insyarat dari "C"?
-    optionA: {fileID: -809993016, guid: 5b3f83130f85f0f4889bfb088fab14c0, type: 3}
-    optionB: {fileID: -1753250977, guid: 170f1ba13c7a7234dbcc47d5c3638000, type: 3}
-    score: 20
-    correctOption: A
-  - questionText: Apa Bahasa Insyarat dari "D"?
-    optionA: {fileID: -809993016, guid: 5b3f83130f85f0f4889bfb088fab14c0, type: 3}
-    optionB: {fileID: -1753250977, guid: 170f1ba13c7a7234dbcc47d5c3638000, type: 3}
+    correctOption: B
+  - questionText: Apa Bahasa Insyarat dari "U"?
+    optionA: {fileID: 21300000, guid: 4a8c8eeb17d5f82498244994cf243010, type: 3}
+    optionB: {fileID: 21300000, guid: eff83692de9de9e4582aa5aec430148f, type: 3}
     score: 20
     correctOption: A
   - questionText: Apa Bahasa Insyarat dari "E"?
-    optionA: {fileID: -809993016, guid: 5b3f83130f85f0f4889bfb088fab14c0, type: 3}
-    optionB: {fileID: -1753250977, guid: 170f1ba13c7a7234dbcc47d5c3638000, type: 3}
+    optionA: {fileID: 21300000, guid: f1724f6fd3ef750468437a2672b4649b, type: 3}
+    optionB: {fileID: 21300000, guid: cf5de63ff587c5a40af1d66d7bd5f978, type: 3}
+    score: 20
+    correctOption: B
+  - questionText: Apa Bahasa Insyarat dari "O"?
+    optionA: {fileID: 21300000, guid: eff83692de9de9e4582aa5aec430148f, type: 3}
+    optionB: {fileID: 21300000, guid: 4a8c8eeb17d5f82498244994cf243010, type: 3}
     score: 20
     correctOption: A

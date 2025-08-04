@@ -13,28 +13,28 @@ MonoBehaviour:
   m_Name: Quiz2
   m_EditorClassIdentifier: 
   questions:
-  - questionText: Apa Bahasa Insyarat dari "Bapak"?
-    optionA: {fileID: -809993016, guid: 5b3f83130f85f0f4889bfb088fab14c0, type: 3}
-    optionB: {fileID: -1753250977, guid: 170f1ba13c7a7234dbcc47d5c3638000, type: 3}
+  - questionText: Apa Bahasa Insyarat dari "Mangga"?
+    optionA: {fileID: 21300000, guid: c52ef5aee16f2834991fb6e0580d5c26, type: 3}
+    optionB: {fileID: 21300000, guid: a9d97373f739e0047ae5f9712f42c243, type: 3}
     score: 20
     correctOption: A
-  - questionText: Apa Bahasa Insyarat dari "Ibu"?
-    optionA: {fileID: -809993016, guid: 5b3f83130f85f0f4889bfb088fab14c0, type: 3}
-    optionB: {fileID: -1753250977, guid: 170f1ba13c7a7234dbcc47d5c3638000, type: 3}
+  - questionText: Apa Bahasa Insyarat dari "anggur"?
+    optionA: {fileID: 21300000, guid: a9d97373f739e0047ae5f9712f42c243, type: 3}
+    optionB: {fileID: 21300000, guid: ea34b1afce454314caae5749980a15e2, type: 3}
+    score: 20
+    correctOption: A
+  - questionText: Apa Bahasa Insyarat dart "pisang"?
+    optionA: {fileID: 21300000, guid: c52ef5aee16f2834991fb6e0580d5c26, type: 3}
+    optionB: {fileID: 21300000, guid: d6629e99f8db43b47b2cee8dc2ec9de0, type: 3}
     score: 20
     correctOption: B
-  - questionText: Apa Bahasa Insyarat dart "Kakek"?
-    optionA: {fileID: -809993016, guid: 5b3f83130f85f0f4889bfb088fab14c0, type: 3}
-    optionB: {fileID: -1753250977, guid: 170f1ba13c7a7234dbcc47d5c3638000, type: 3}
+  - questionText: Apa Bahasa Insyarat dari "jeruk"?
+    optionA: {fileID: 21300000, guid: ea34b1afce454314caae5749980a15e2, type: 3}
+    optionB: {fileID: 21300000, guid: a9d97373f739e0047ae5f9712f42c243, type: 3}
     score: 20
     correctOption: A
-  - questionText: Apa Bahasa Insyarat dari "Nenek"?
-    optionA: {fileID: -809993016, guid: 5b3f83130f85f0f4889bfb088fab14c0, type: 3}
-    optionB: {fileID: -1753250977, guid: 170f1ba13c7a7234dbcc47d5c3638000, type: 3}
+  - questionText: Apa Bahasa Insyaratnya "alpukat"?
+    optionA: {fileID: 21300000, guid: ea34b1afce454314caae5749980a15e2, type: 3}
+    optionB: {fileID: 21300000, guid: 51c53b9e770d8e14eaf5e56b2c480344, type: 3}
     score: 20
     correctOption: B
-  - questionText: Apa Bahasa Insyaratnya Kakak?
-    optionA: {fileID: -809993016, guid: 5b3f83130f85f0f4889bfb088fab14c0, type: 3}
-    optionB: {fileID: -1753250977, guid: 170f1ba13c7a7234dbcc47d5c3638000, type: 3}
-    score: 20
-    correctOption: A
